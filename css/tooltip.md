@@ -1,7 +1,5 @@
 # CSS만 사용하여 tooltip 만드는 방법
 
-[보고 공부한 링크](https://www.w3schools.com/howto/howto_css_tooltip.asp)
-
 ## Step 1) HTML 추가하기
 
 ```html
