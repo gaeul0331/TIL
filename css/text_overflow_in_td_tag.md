@@ -17,7 +17,7 @@ td태그에 `word-break:break-all` 속성 및 속성값을 사용하면 됨.
 
 ### word-break 속성값
 | Value | Description |
-| --- | --- |
+| ---- | --- |
 | normal | 기본값. 일반적인 규칙에 따라 줄바꿈 함.|
 | break-all | 문자를 강제로 줄바꿈. 아시아 언어(CJK)에서는 normal처럼 행동하며 비 아시아 언어에 사용할 때는 임의대로 줄바꿈 함. *CJK는 chinese, Japanese, Korean의 약자.|
 | keep-all  | 문자쌍 사이의 줄바꿈이 금지.|
