@@ -2,16 +2,16 @@
 
 
 ## 1. 아이디값 가지고 오기.
-동영상이 있는 페이지에서 **공유** 클릭  후 'https://youtu.be/아이디값' 아이디 값 복사하기.
+동영상이 있는 페이지에서 **공유** 클릭  후 `https://youtu.be/아이디값`에서 아이디 값 복사하기.
 
 
 ## 2. 아이디값을 입력하고 브라우저에 붙여넣으면 끝
 
 1. 기본 (일반) : 120x90
-* http://i.ytimg.com/vi/아이디값/default.jpg"
-```html
-<img src="http://i.ytimg.com/vi/아이디값/default.jpg" alt=""/>
-```
+	* http://i.ytimg.com/vi/아이디값/default.jpg"
+	```html
+		<img src="http://i.ytimg.com/vi/아이디값/default.jpg" alt=""/>
+	```
 
 2. 기본 (중간) : 320x180
 * http://i.ytimg.com/vi/아이디값/mqdefault.jpg"
