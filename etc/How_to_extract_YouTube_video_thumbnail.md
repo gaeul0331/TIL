@@ -10,35 +10,34 @@
 1. 기본 (일반) : 120x90
 	* http://i.ytimg.com/vi/아이디값/default.jpg"
 	```html
-		<img src="http://i.ytimg.com/vi/아이디값/default.jpg" alt=""/>
+	<img src="http://i.ytimg.com/vi/아이디값/default.jpg" alt=""/>
 	```
 
 2. 기본 (중간) : 320x180
-* http://i.ytimg.com/vi/아이디값/mqdefault.jpg"
-```html
-<img src="http://i.ytimg.com/vi/아이디값/mqdefault.jpg" alt=""/>
-```
+	* http://i.ytimg.com/vi/아이디값/mqdefault.jpg"
+	```html
+	<img src="http://i.ytimg.com/vi/아이디값/mqdefault.jpg" alt=""/>
+	```
 
 3. 기본 (큰화면) : 480x360
-* http://i.ytimg.com/vi/아이디값/hqdefault.jpg"
-```html
-<img src="http://i.ytimg.com/vi/아이디값/hqdefault.jpg" alt=""/>
-```
+	* http://i.ytimg.com/vi/아이디값/hqdefault.jpg"
+	```html
+	<img src="http://i.ytimg.com/vi/아이디값/hqdefault.jpg" alt=""/>
+	```
 
 4. 기본 : 640x480
-* http://i.ytimg.com/vi/아이디값/sddefault.jpg"
-```html
-<img src="http://i.ytimg.com/vi/아이디값/sddefault.jpg" alt=""/>
-```
+	* http://i.ytimg.com/vi/아이디값/sddefault.jpg"
+	```html
+	<img src="http://i.ytimg.com/vi/아이디값/sddefault.jpg" alt=""/>
+	```
 
 5. 기본 : 1920x1080
-* http://i.ytimg.com/vi/아이디값/maxresdefault.jpg"
-```html
-<img src="http://i.ytimg.com/vi/아이디값/maxresdefault.jpg" alt=""/>
+	* http://i.ytimg.com/vi/아이디값/maxresdefault.jpg"
+	```html
+	<img src="http://i.ytimg.com/vi/아이디값/maxresdefault.jpg" alt=""/>
+	```
 
-```
-
-## 활용 방법
+## 3. 활용 방법
 
 1. 이미지 저장 후 포토샵에서 열기.
 2. ctrl + n 사용하여 원하는 썸네일 크기에 맞춰 새문서 열기.
