@@ -10,7 +10,7 @@
 	body,html{ height:100%; }
 	/*배경 지역이 배경이미지로 완전히 덮히게 하려면 : background-size:cover*/
 	.bgimg{ background-image:url(https://www.w3schools.com/w3images/forestbridge.jpg); height:100%; background-position:center;  background-size:cover; }
-,,,
+```
 
 
 ```html
@@ -21,7 +21,7 @@
 			</div>
 		</body>
 	</html>
-,,,
+```
 
 ## 속성 값
 | Value | Description |
