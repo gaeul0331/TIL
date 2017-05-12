@@ -1,4 +1,4 @@
-# background-size
+# 브라우저 화면 전체를 이미지도 덮는 방법
 
 ## 문제점
 브라우저 화면 전체를 이미지로 덮으려고 ` background-size:cover` 속성을 사용했는데 작동안함.
