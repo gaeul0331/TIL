@@ -1,29 +1,29 @@
 # 브라우저 화면 전체를 이미지로 덮는 방법
 
 ## 문제점
-브라우저 화면 전체를 이미지로 덮으려고 ` background-size:cover` 속성을 사용했는데 작동안함.
+브라우저 화면 전체를 이미지로 덮으려고 `background-size:cover` 속성을 사용했는데 작동안함.
 
 
 ## 해결방법
 ```css
-	/*body 및 html의 높이를 100%로 설정하면 배경 이미지가 전체 페이지를 덮을 수 있다*/
-	body,html{ height:100%; }
-	/*배경 지역이 배경이미지로 완전히 덮히게 하려면 : background-size:cover*/
-	.bgimg{ background-image:url(https://www.w3schools.com/w3images/forestbridge.jpg); height:100%; background-position:center;  background-size:cover; }
+/*body 및 html의 높이를 100%로 설정하면 배경 이미지가 전체 페이지를 덮을 수 있다*/
+body,html{ height:100%; }
+/*배경 지역이 배경이미지로 완전히 덮히게 하려면 : background-size:cover*/
+.bgimg{ background-image:url(https://www.w3schools.com/w3images/forestbridge.jpg); height:100%; background-position:center;  background-size:cover; }
 ```
 
 
 ```html
-	<html>
-		<body>
-			<div class="bgimg">
-				<div class="topleft"></div>
-			</div>
-		</body>
-	</html>
+<html>
+<body>
+<div class="bgimg">
+<div class="topleft"></div>
+</div>
+</body>
+</html>
 ```
 
-## 속성 값
+## background-size 속성 값
 | Value | Description |
 | ---- | --- |
 | auto | 기본값. 배경 이미지 원래의 너비와 높이가 그대로 표시 |
