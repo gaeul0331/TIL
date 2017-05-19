@@ -30,5 +30,5 @@ $(function(  ){
 	})
 ```
 ## Refer
-[](http://findfun.tistory.com/249)
-[](http://findfun.tistory.com/337)
+[참조1](http://findfun.tistory.com/249)
+[참조2](http://findfun.tistory.com/337)
