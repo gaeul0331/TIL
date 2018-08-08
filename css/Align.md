@@ -8,9 +8,9 @@
 	* **margin:auto**사용.
     * width property를 설정하지 않거나 100%로 설정한 경우 margin:auto가 작동안함.
 	```html
-    	<style>
+        <style>
                 .img{ display: block; margin-left:auto; margin-right: auto;  }
-         </style>
+        </style>
     	<img class="img" src="/kge/imgs/file_icon/xls.gif" alt="">
     ```
 	
@@ -19,7 +19,7 @@
 	```html
     	<style>
                 .img{ display: block; margin-left:auto; margin-right: auto;  }
-         </style>
+        </style>
     	<img class="img" src="/kge/imgs/file_icon/xls.gif" alt="">
     ```
 
@@ -28,7 +28,7 @@
 	```html
     	<style>
                 div{ border:1px solid red; box-sizing:border-box; text-align: center; }
-         </style>
+        </style>
     	<div>center</div>
     ```
 
