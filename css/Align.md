@@ -68,7 +68,7 @@
 	<style>
 		div{ width: 100px; height: 100px; border:1px solid red; box-sizing:border-box; position:absolute; top:0; bottom:0; margin-top:auto; margin-bottom:auto; }
 	</style>
-	<div>center</div>
+		<div>center</div>
 	```                     
        
 
