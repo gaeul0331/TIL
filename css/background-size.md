@@ -19,7 +19,7 @@ body,html{ height:100%; }
     <div class="bgimg">
       <div class="topleft"></div>
     </div>
-</body>
+  </body>
 </html>
 ```
 
