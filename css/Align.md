@@ -7,12 +7,12 @@
 1. block element 가로로 가운데 정렬
 	* **margin:auto**사용.
     * width property를 설정하지 않거나 100%로 설정한 경우 margin:auto가 작동안함.
-	```html
-        <style>
-                .img{ display: block; margin-left:auto; margin-right: auto;  }
-        </style>
-    	<img class="img" src="/kge/imgs/file_icon/xls.gif" alt="">
-    ```
+```html
+<style>
+	.img{ display: block; margin-left:auto; margin-right: auto;  }
+</style>
+	<img class="img" src="/kge/imgs/file_icon/xls.gif" alt="">
+```
 	
 2.  이미지를 가로로 가운데 정렬
 	* block element로 만든 다음, margin-left:auto 와 margin-right:auto 적용.
