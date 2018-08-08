@@ -15,10 +15,10 @@ body,html{ height:100%; }
 
 ```html
 <html>
-<body>
-<div class="bgimg">
-<div class="topleft"></div>
-</div>
+  <body>
+    <div class="bgimg">
+      <div class="topleft"></div>
+    </div>
 </body>
 </html>
 ```
@@ -30,7 +30,7 @@ body,html{ height:100%; }
 | length | 배경 이미지의 너비와 높이를 설정. 첫 번째 값은 너비, 두 번째 값은 높이. 하나의 값만 주어지면 두 번째 값은 "auto"로 설정됨. |
 | percentage  | 상위 요소의 백분율로 배경 이미지의 너비와 높이를 설정. 첫 번째 값은 너비를 설정하고 두 번째 값은 높이를 설정한다. 하나의 값만 주어지면 두 번째 값은 "auto"로 설정됨. |
 | cover  | 배경 영역이 배경 이미지로 완전히 덮힌다. |
-| contain  | 이미지 너비와 높이가 내용 안졲에 들어갈 수 있도록 이미지를 가장 크게 조절함.|
+| contain  | 이미지 너비와 높이가 내용 안쪽에 들어갈 수 있도록 이미지를 가장 크게 조절함.|
 | initial  | 기본값으로 설정. |
 | inherit  | 부모 요소에서 상속. |
 
