@@ -10,7 +10,7 @@
 	```html
     	<style>
                 .img{ display: block; margin-left:auto; margin-right: auto;  }
-         </style>
+        </style>
     	<img class="img" src="/kge/imgs/file_icon/xls.gif" alt="">
     ```
 	
@@ -19,7 +19,7 @@
 	```html
     	<style>
                 .img{ display: block; margin-left:auto; margin-right: auto;  }
-         </style>
+        </style>
     	<img class="img" src="/kge/imgs/file_icon/xls.gif" alt="">
     ```
 
@@ -28,7 +28,7 @@
 	```html
     	<style>
                 div{ border:1px solid red; box-sizing:border-box; text-align: center; }
-         </style>
+        </style>
     	<div>center</div>
     ```
 
